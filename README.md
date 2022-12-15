@@ -1,5 +1,5 @@
-# its-i2cDevices
-include these scripts for i2c devices
+# its-thermalCam
+include this scripts for i2c amg8833
 
 ## its_amg8833.py - 8x8 IR camera ( aka: GridEye )
 
